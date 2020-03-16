@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class BotoncinComponent {
 
-  public buttonColor: string =  "cadetblue";
+  public buttonColor: string =  "red";
 
 
   public printAction($event) {
