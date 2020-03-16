@@ -11,7 +11,7 @@ export class BotoncinComponent {
 
 
   public printAction($event) {
-    this.buttonColor = "yellow";
+    this.buttonColor = "black";
     console.log('Click', $event)
   }
 
